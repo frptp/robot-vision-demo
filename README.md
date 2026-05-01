@@ -89,5 +89,5 @@ robot-vision-demo/
 
 ## 作者
 
-**方博林** · 河海大学 机器人工程专业  
+**frptp**
 frptp@outlook.com
